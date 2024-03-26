@@ -22,7 +22,7 @@
 		<java.version>1.8</java.version>
 		<gcp.version>1.2.2.RELEASE</gcp.version>
 		<swagger2>2.9.2</swagger2>
-		<tcnative.version>2.0.53.Final</tcnative.version>
+		<tcnative.version>2.0.48.Final</tcnative.version>
 	</properties>
 
 	<dependencies>
